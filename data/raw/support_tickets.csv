@@ -1,0 +1,11 @@
+ticket_id,customer_id,session_id,created_at,ticket_category,status,resolution_hours
+T5001,C002,S1002,2026-03-01 10:40:00,Billing,Closed,3.5
+T5002,C003,S1003,2026-03-01 12:00:00,Technical,Closed,18.0
+T5003,C006,S1006,2026-03-02 14:45:00,Technical,Open,
+T5004,C007,S1007,2026-03-03 09:25:00,Cancellation,Closed,5.0
+T5005,C999,S1009,2026-03-03 13:35:00,Billing,Closed,2.0
+T5006,C009,S1010,2026-03-04 17:00:00,Technical,closed,7.0
+T5007,C004,S9999,2026-03-05 08:00:00,Account,Closed,-2.0
+T5008,C005,,2026-03-05 11:15:00,Billing,Pending,0
+T5009,C011,S1012,2026-03-05 10:02:00,Payments,Closed,4.5
+T5010,C012,S1013,2026-03-05 12:00:00,Technical,Resolved,9.0
