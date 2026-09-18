@@ -1,0 +1,14 @@
+customer_id,signup_date,state,customer_segment,monthly_spend
+C001,2026-01-05,MO,Consumer,89.99
+C002,2026-01-12,VA,Consumer,75.50
+C003,2026-01-21,MA,Business,240.00
+C004,2026-02-02,TX,consumer,65.00
+C005,2026-02-12,CA,Business,315.25
+C006,2026-02-15,NY,Consumer,
+C007,2026-02-18,VA,Enterprise,875.00
+C008,2026-03-01,MO,Consumer,92.00
+C009,2026-03-04,CA,Business,280.00
+C009,2026-03-04,CA,Business,280.00
+C010,2027-13-01,TX,Consumer,54.25
+C011,2026-03-08,,Consumer,110.00
+C012,2026-03-10,IL,SMB,180.00
