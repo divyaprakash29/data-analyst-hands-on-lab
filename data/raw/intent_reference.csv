@@ -1,0 +1,8 @@
+intent_id,intent_name,category,is_active,target_resolution_rate
+I01,Billing,Billing,TRUE,0.80
+I02,Internet Issue,Technical,TRUE,0.75
+I03,Account Access,Account,TRUE,0.85
+I04,Cancellation,Retention,TRUE,0.65
+I05,Payment Arrangement,Billing,TRUE,0.70
+I06,Technical Support,Technical,TRUE,0.75
+I07,Plan Change,Account,TRUE,1.20
