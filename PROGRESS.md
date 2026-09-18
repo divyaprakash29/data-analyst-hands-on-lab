@@ -4,10 +4,10 @@ This file tracks completion of the hands-on Data Analyst course.
 
 | Assignment | Topic | Status | Score | Notes |
 |---|---|---|---:|---|
-| 01 | Data Audit & Excel | 🟡 Assigned | — | Start with the raw customer-support files |
-| 02 | SQL Foundations | 🔒 Locked | — | Added after Assignment 01 review |
-| 03 | Advanced SQL | 🔒 Locked | — | |
-| 04 | Python / Pandas | 🔒 Locked | — | |
+| 01 | Data Audit & Excel | ⏭️ Skipped | — | Optional reference only |
+| 02 | SQL Business Analysis | 🟡 Assigned | — | Current assignment |
+| 03 | Advanced SQL | 🔒 Locked | — | Window functions, reusable analytical queries |
+| 04 | Python / Pandas | 🔒 Locked | — | Cleaning, EDA, automation |
 | 05 | Data Modeling | 🔒 Locked | — | |
 | 06 | Snowflake | 🔒 Locked | — | |
 | 07 | dbt | 🔒 Locked | — | |
@@ -19,6 +19,10 @@ This file tracks completion of the hands-on Data Analyst course.
 
 ## Current assignment
 
-**Assignment 01 — Customer Support Data Audit**
+**Assignment 02 — SQL Business Analysis**
 
-The next assignment should be unlocked only after the current submission is reviewed.
+Start here:
+
+`assignments/02_sql_business_analysis/README.md`
+
+Assignment 01 is no longer a prerequisite.
